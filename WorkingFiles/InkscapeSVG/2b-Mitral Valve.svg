@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.49"
      inkscape:cx="366.85405"
-     inkscape:cy="598.72467"
+     inkscape:cy="196.04011"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1237"
      inkscape:window-height="776"
@@ -1760,9 +1760,9 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          id="flowPara10537">3. LV <flowSpan
    style="font-weight:bold"
-   id="flowSpan11641">morphology</flowSpan> and <flowSpan
-   style="font-weight:bold"
-   id="flowSpan11643">function</flowSpan>? (EF; SWMA? Consider LV strain)</flowPara><flowPara
+   id="flowSpan11641">morphology <flowSpan
+   style="font-weight:normal"
+   id="flowSpan3823">&amp;</flowSpan> function</flowSpan>? (EF; SWMA? Consider LV strain)</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          id="flowPara10539">4. Associated <flowSpan
    style="font-weight:bold"
@@ -1792,9 +1792,9 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;letter-spacing:0px;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          id="flowPara7503">3. <flowSpan
    style="font-size:12px;font-weight:bold;letter-spacing:0px"
-   id="flowSpan7517">SAM</flowSpan> or<flowSpan
-   style="font-size:12px;font-weight:bold;letter-spacing:0px"
-   id="flowSpan7519"> LVOTO</flowSpan>?</flowPara><flowPara
+   id="flowSpan7517">SAM <flowSpan
+   style="font-weight:normal"
+   id="flowSpan3825">±</flowSpan> LVOTO</flowSpan>?</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;letter-spacing:0px;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          id="flowPara7509">4. New <flowSpan
    style="font-size:12px;font-weight:bold;letter-spacing:0px"
@@ -1804,7 +1804,9 @@
    style="font-size:12px;font-weight:bold;letter-spacing:0px"
    id="flowSpan7511">bicaval cannulation sites</flowSpan>?</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;letter-spacing:0px;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-         id="flowPara7546">6. New <flowSpan
+         id="flowPara7546">6. <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3827">LV function</flowSpan> New? <flowSpan
    style="font-size:12px;font-weight:bold;letter-spacing:0px"
    id="flowSpan7548">SWMA<flowSpan
    style="font-weight:normal"
@@ -2810,7 +2812,8 @@
            y="339.50592"
            style="text-align:end;text-anchor:end" /></flowRegion><flowPara
          id="flowPara3953" /></flowRoot>    <g
-       id="g16332">
+       id="g16332"
+       transform="matrix(1.1518669,0,0,1.1518669,-71.176236,-93.396246)">
       <path
          id="path5207-7-2"
          d="m 410.48695,616.28025 c -30.28242,12.65019 -60.66816,25.10045 -91.05485,37.49783 -0.3394,1.43698 -5.37008,23.27793 1.12461,36.97572 -2.4222,7.41019 -6.08265,14.72346 -8.18589,22.34148 -0.41173,1.53372 -0.77575,3.07734 -1.16643,4.6201 9.59351,9.93206 20.41959,18.58482 32.43553,25.43263 15.5797,8.03544 32.25379,14.6131 49.88522,15.97502 17.95958,1.94279 36.21034,0.78977 53.87324,-2.9492 4.40082,-13.27283 7.0566,-28.02497 5.10787,-42.6008 -1.84289,-4.36106 -3.62327,-8.74606 -5.38327,-13.13139 -7.9015,-18.82984 -15.64664,-37.74247 -23.51304,-56.5878 -0.26653,-0.59631 -0.61967,-1.45116 -0.87578,-2.02218 -8.73945,-19.48555 -11.42335,-24.3084 -12.24721,-25.55141 z"
@@ -2869,15 +2872,15 @@
          x="343.75034"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
-           style="font-size:12px;line-height:100%;fill:#0000ff;fill-opacity:1;text-anchor:middle;text-align:center;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans Oblique;font-style:oblique;letter-spacing:-0.5px"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:center;line-height:100%;letter-spacing:-0.5px;text-anchor:middle;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Oblique"
            y="665.93201"
-           x="322.4808"
+           x="343.50034"
            id="tspan11929"
            sodipodi:role="line">Tenting</tspan><tspan
-           style="font-size:12px;line-height:100%;fill:#0000ff;fill-opacity:1;text-anchor:middle;text-align:center;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans Oblique;font-style:oblique;letter-spacing:-0.5px"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:center;line-height:100%;letter-spacing:-0.5px;text-anchor:middle;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Oblique"
            id="tspan11931"
            y="677.93201"
-           x="322.4808"
+           x="343.50034"
            sodipodi:role="line">height</tspan></text>
       <path
          sodipodi:nodetypes="cc"
@@ -2892,15 +2895,15 @@
          x="403.22284"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
-           style="font-size:12px;line-height:100%;letter-spacing:-0.5px;fill:#0000ff;fill-opacity:1;text-anchor:middle;text-align:center;font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique"
+           style="font-size:12px;font-style:oblique;text-align:center;line-height:100%;letter-spacing:-0.5px;text-anchor:middle;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Oblique"
            y="664.60211"
-           x="381.95331"
+           x="402.97284"
            id="tspan11929-9"
            sodipodi:role="line">Tenting</tspan><tspan
-           style="font-size:12px;line-height:100%;letter-spacing:-0.5px;fill:#0000ff;fill-opacity:1;text-anchor:middle;text-align:center;font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique"
+           style="font-size:12px;font-style:oblique;text-align:center;line-height:100%;letter-spacing:-0.5px;text-anchor:middle;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Oblique"
            id="tspan11931-8"
            y="676.60211"
-           x="381.95331"
+           x="402.97284"
            sodipodi:role="line">area</tspan></text>
       <path
          sodipodi:nodetypes="cc"
@@ -2922,7 +2925,7 @@
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            id="tspan12433"
-           style="font-size:12px;fill:#0000ff;fill-opacity:1;font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique;letter-spacing:-0.5px"
+           style="font-size:12px;font-style:oblique;letter-spacing:-0.5px;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Oblique"
            y="725.51581"
            x="369.90198"
            sodipodi:role="line">C-Sept</tspan></text>
